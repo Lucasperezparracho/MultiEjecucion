@@ -1,5 +1,5 @@
 public class Secundaria {
     public static void main(String[] args) {
-        System.out.println("Chauuu");
+        System.out.println("Adios");
     }
 }
